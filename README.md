@@ -17,6 +17,7 @@
     pip install -r requirements.txt
         ## if dependencies makes a ModuleNotFoundError: No module named 'requests'
             python -m pip install requests
+            python -m pip install dotenv
 
 
 ## To use 
