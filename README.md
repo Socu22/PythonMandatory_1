@@ -1,5 +1,6 @@
 # PythonMandatory_1
 
+## in vs code you can clone it when pressing file in the top left. --> New Window. --> Clone Git Repository.
 
 ## Setup 
   #setup .venv
