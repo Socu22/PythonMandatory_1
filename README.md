@@ -33,3 +33,5 @@
         https://v6.exchangerate-api.com/v6/API_KEY_INSERTED/latest/
     ## help in the command
         you can use the optional argument -h to get insights into the command when using it. mainly to see exceptions or syntax errors. 
+    ## documentation 
+        https://realpython.com/command-line-interfaces-python-argparse/
